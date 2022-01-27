@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>admin &#8211; Moja Webstránka</title>
-	<atom:link href="http://localhost/wordpress/author/admin/feed/" rel="self" type="application/rss+xml" />
+	<title>Nezaradené &#8211; Moja Webstránka</title>
+	<atom:link href="http://localhost/wordpress/category/nezaradene/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tomiit123.github.io/test-page</link>
 	<description>Ahoj svet</description>
 	<lastBuildDate>Thu, 27 Jan 2022 10:37:55 +0000</lastBuildDate>
